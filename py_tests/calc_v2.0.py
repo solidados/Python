@@ -3,7 +3,7 @@
 # В этой версии рассматривается "Работа с модулями"
 
 from colorama import init
-from termcolor import colored
+# from termcolor import colored
 from colorama import Fore, Back, Style
 
 # use Colorama to make Termcolor work on Windows too
